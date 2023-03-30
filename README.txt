@@ -11,6 +11,8 @@ HOW TO USE
 If file containing emails (usually from a database or email marketting tool):
 1. Convert your files to arrays (no matter how large) using email extractor lite on google, specifying the separating symbol for each email as comma.
 
-2. Store the output from item 1. above within the square brackets [] in an array called arr1 in the variable specified within the code. Do the same for arr2
+2. Clone the git repository into desired folder with git clone https://github.com/papishef/array-comparer.git
 
-3. Save the file and observe your console.
+3. Store the output from item 1. above within the square brackets [] in an array called arr1 in the variable specified within the code. Do the same for arr2
+
+4. Save the file, run node .\filename.js and observe your console.
